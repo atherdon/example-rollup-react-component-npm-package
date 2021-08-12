@@ -1,5 +1,5 @@
 {
-  "name": "@jaebradley/example-rollup-react-component-npm-package",
+  "name": "atherdon-react-markdown-component",
   "version": "0.0.0-development",
   "description": "Example React Component for npm Publication using Rollup",
   "main": "build/index.cjs.js",
